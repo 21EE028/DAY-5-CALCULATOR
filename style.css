@@ -1,0 +1,45 @@
+#main{
+    height: 200px;
+    width: 300px;
+    border: 2px solid black;
+    margin: auto; 
+    
+}
+
+#button{
+    height: 25px;
+    width: 25px;
+    display: flex;
+    margin-top: 75px;
+}
+
+button{
+    margin-top: 20px;
+    border: 2px solid red;
+    height: 50px;
+    width: 50px;  
+    border-top-left-radius:  20px;
+    border-bottom-right-radius: 20px;
+    margin-left: 30px;
+    
+}
+
+div{
+    margin: auto;
+    color: white;
+    
+}
+body{
+    height: 400px;
+    width: 300px;
+    border: 5px solid white;
+    margin: auto ;
+    margin-top: 190px;
+    background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRC8G8W1UGMStoRpqkLb4GWqIYs-YBKvTpL4g&s");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    
+    
+}
+
